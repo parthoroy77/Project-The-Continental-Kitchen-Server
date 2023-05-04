@@ -14,9 +14,9 @@ app.get('/data', (req, res) => {
     res.send(data)
 })
 
-app.get('/review', (req, res) => {
-    res.send(review)
-})
+// app.get('/data/review', (req, res) => {
+//     res.send(review)
+// })
 
 app.get("/data/:id", (req, res) => {
   const id = parseInt(req.params.id);
