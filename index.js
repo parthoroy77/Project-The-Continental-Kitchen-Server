@@ -7,12 +7,13 @@ const port = 4523;
 app.use(cors())
 
 app.get('/', (req, res) => {
-    res.send('Hellowwww')
+    res.send('The Continental Kitchen')
 })
 
 app.get('/data', (req, res) => {
     res.send(data)
 })
+
 
 app.get("/data/:id", (req, res) => {
   const id = parseInt(req.params.id);
