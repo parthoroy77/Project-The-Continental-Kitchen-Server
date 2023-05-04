@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "author": "John Smith",
+    "review": "The food here is incredible! I highly recommend the steak. It was cooked to perfection and had amazing flavor.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "author": "Jane Doe",
+    "review": "I had the pasta dish and it was delicious. The sauce was flavorful and the noodles were cooked just right.",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "author": "Bob Johnson",
+    "review": "The sushi here is top-notch. It's always fresh and the presentation is beautiful.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "author": "Samantha Lee",
+    "review": "The burgers here are amazing. The patties are juicy and the toppings are fresh.",
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "author": "Alex Chen",
+    "review": "This is hands down the best pizza I've ever had. The crust was crispy and the sauce was perfectly balanced.",
+    "rating": 5
+  },
+  {
+    "id": 6,
+    "author": "Emily Brown",
+    "review": "The chicken sandwich was so good! It had just the right amount of seasoning and the bun was fresh.",
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "author": "David Kim",
+    "review": "The steak here is definitely worth trying. It's cooked to perfection and the sides are delicious as well.",
+    "rating": 5
+  },
+  {
+    "id": 8,
+    "author": "Olivia Lee",
+    "review": "The desserts here are heavenly. I highly recommend the chocolate cake - it's moist and rich.",
+    "rating": 4
+  }
+]
