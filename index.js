@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 const data = require('./data/chefData.json')
 const port = 4523;
-
+const review = require('./data/review.json')
 app.use(cors())
 
 app.get('/', (req, res) => {
@@ -14,6 +14,9 @@ app.get('/data', (req, res) => {
     res.send(data)
 })
 
+app.get('/review', (req, res) => {
+    res.send(review)
+})
 
 app.get("/data/:id", (req, res) => {
   const id = parseInt(req.params.id);
