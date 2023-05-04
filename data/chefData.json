@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "chefName": "Alice Waters",
+    "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 100,
+    "likes": 5000,
+    "chefDescription": "Alice Waters is an American chef, author, and food activist. She is the founder of Chez Panisse, a Berkeley, California restaurant famous for its organic, locally-sourced ingredients. Waters is known for promoting the use of fresh, seasonal, and locally-grown produce in her cooking.",
+    "cuisineSpecialty": "Mediterranean",
+    "chefRecipes": [
+      {
+        "recipeName": "Green Salad",
+        "cookingMethod": "Mixing",
+        "ratings": 4.5,
+        "ingredients": "Mixed greens, Olive oil, Vinegar, Salt, Pepper",
+        "recipeInstructions": "Wash the greens. Mix the oil, vinegar, salt, and pepper in a bowl. Toss the greens with the dressing."
+      },
+      {
+        "recipeName": "Roasted Chicken with Lemon",
+        "cookingMethod": "Roasting",
+        "ratings": 4.8,
+        "ingredients": "Whole chicken, Lemon, Thyme, Salt, Pepper",
+        "recipeInstructions": "Preheat the oven to 375°F. Rub the chicken with lemon, thyme, salt, and pepper. Roast the chicken for 1 hour."
+      },
+      {
+        "recipeName": "Pasta with Tomato Sauce",
+        "cookingMethod": "Boiling",
+        "ratings": 4.2,
+        "ingredients": "Pasta, Tomatoes, Garlic, Onion, Olive oil",
+        "recipeInstructions": "Cook the pasta according to package directions. Sauté garlic and onion in olive oil. Add tomatoes and simmer for 20 minutes. Toss pasta with the tomato sauce."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chefName": "Massimo Bottura",
+    "chefPicture": "https://us.123rf.com/450wm/opolja/opolja1905/opolja190500413/122935794-portrait-of-a-mature-chef-cook-holding-knifes-isolated-on-a-black-background.jpg?ver=6",
+    "yearsOfExperience": 22,
+    "numberOfRecipes": 80,
+    "likes": 4500,
+    "chefDescription": "Massimo Bottura is an Italian chef and restaurateur. He is the owner and chef patron of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. Bottura is known for his avant-garde approach to traditional Italian cuisine.",
+    "cuisineSpecialty": "Italian",
+    "chefRecipes": [
+      {
+        "recipeName": "Pesto Pasta",
+        "cookingMethod": "Boiling",
+        "ratings": 4.6,
+        "ingredients": "Pasta, Fresh basil, Pine nuts, Parmesan cheese, Garlic, Olive oil",
+        "recipeInstructions": "Cook the pasta according to package directions. Blend basil, pine nuts, Parmesan cheese, and garlic in a food processor. Add olive oil gradually and blend until smooth. Toss pasta with the pesto sauce."
+      },
+      {
+        "recipeName": "Osso Buco",
+        "cookingMethod": "Braising",
+        "ratings": 4.9,
+        "ingredients": "Veal shanks, Onion, Carrots, Celery, Tomato paste, White wine, Beef broth, Garlic, Thyme, Bay leaf, Salt, Pepper",
+        "recipeInstructions": "Preheatthe oven to 325°F. Sauté onion, carrots, and celery in olive oil. Add tomato paste and cook for 2 minutes. Add white wine, beef broth, garlic, thyme, bay leaf, salt, and pepper. Bring to a simmer. Add veal shanks and cover with a lid. Braise in the oven for 2-3 hours or until the meat is tender."
+      },
+      {
+        "recipeName": "Risotto alla Parmigiana",
+        "cookingMethod": "Simmering",
+        "ratings": 4.7,
+        "ingredients": "Arborio rice, Onion, Parmesan cheese, Butter, Olive oil, White wine, Chicken broth, Salt, Pepper",
+        "recipeInstructions": "Sauté onion in olive oil and butter. Add Arborio rice and stir until coated. Add white wine and simmer until evaporated. Add chicken broth gradually, stirring constantly until the rice is cooked through. Add Parmesan cheese, salt, and pepper to taste."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chefName": "Wolfgang Puck",
+    "chefPicture": "https://media.istockphoto.com/id/1165683221/photo/chef-presents-something-on-a-black-background.jpg?s=612x612&w=0&k=20&c=G3_9EIg-nt-ZKh48hlvRMYWhizVU3uQuUcoNuhOVLKM=",
+    "yearsOfExperience": 11,
+    "numberOfRecipes": 120,
+    "likes": 6000,
+    "chefDescription": "Wolfgang Puck is an Austrian-American chef, restaurateur, and actor. He is the owner and chef of Spago, a two-Michelin-star restaurant in Beverly Hills, California. Puck is known for his fusion cuisine, which combines elements of traditional French, Italian, and Asian cooking.",
+    "cuisineSpecialty": "Fusion",
+    "chefRecipes": [
+      {
+        "recipeName": "Chinese Chicken Salad",
+        "cookingMethod": "None",
+        "ratings": 4.4,
+        "ingredients": "Chicken breast, Mixed greens, Carrots, Cabbage, Crispy wontons, Almonds, Scallions, Soy sauce, Sesame oil, Rice vinegar, Ginger, Garlic, Sugar, Salt, Pepper",
+        "recipeInstructions": "Poach chicken breast and slice it. Mix the greens, carrots, and cabbage in a bowl. Add the chicken, crispy wontons, almonds, and scallions. Mix soy sauce, sesame oil, rice vinegar, ginger, garlic, sugar, salt, and pepper in a separate bowl. Toss the dressing with the salad."
+      },
+      {
+        "recipeName": "Spicy Tuna Tartare",
+        "cookingMethod": "None",
+        "ratings": 4.9,
+        "ingredients": "Sushi-grade tuna, Avocado, Soy sauce, Lime juice, Ginger, Garlic, Sriracha, Sesame seeds, Salt, Pepper",
+        "recipeInstructions": "Dice tuna and avocado. Mix soy sauce, lime juice, ginger, garlic, sriracha, sesame seeds, salt, and pepper in a bowl. Add the tuna and avocado to the bowl. Toss gently to combine."
+      },
+      {
+        "recipeName": "Pizza with Prosciutto and Arugula",
+        "cookingMethod": "Baking",
+        "ratings": 4.7,
+        "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Prosciutto, Arugula, Olive oil",
+        "recipeInstructions": "Preheat the oven to 500°F. Roll out the pizza dough. Spread tomato sauce over the dough. Add mozzarella cheese, prosciutto, and arugula. Drizzle olive oil over the pizza. Bake for 10-12 minutes or until the crust is golden brown."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chefName": "Suvir Saran",
+    "chefPicture": "https://st2.depositphotos.com/1177973/12410/i/600/depositphotos_124101074-stock-photo-young-chef-cook.jpg",
+    "yearsOfExperience": 9,
+    "numberOfRecipes": 75,
+    "likes": 4000,
+    "chefDescription": "Suvir Saran is an Indian-American chef, cookbook author, and educator. He is known for his modern take on traditional Indian cuisine. Saran is the co-founder of Devi, a Michelin-starred Indian restaurant in New York City.",
+    "cuisineSpecialty": "Indian",
+    "chefRecipes": [
+      {
+        "recipeName": "Chicken Tikka Masala",
+        "cookingMethod": "Grilling",
+        "ratings": 4.7,
+        "ingredients": "Chicken, Yogurt, Ginger, Garlic, Garam Masala, Cumin, Coriander, Paprika, Tomato sauce, Cream, Salt, Pepper",
+        "recipeInstructions": "Marinate chicken in yogurt, ginger, garlic, garam masala, cumin, coriander, paprika, salt, and pepper. Grill the chicken until cooked. Simmer tomato sauce and cream. Serve the chicken with the sauce and rice."
+      },
+      {
+        "recipeName": "Palak Paneer",
+        "cookingMethod": "Boiling",
+        "ratings": 4.5,
+        "ingredients": "Spinach, Paneer, Onion, Tomato, Garlic, Ginger, Garam Masala, Cumin, Coriander, Turmeric, Cream, Salt, Pepper",
+        "recipeInstructions": "Blanch spinach and blend into a puree. Fry onion, garlic, and ginger. Add tomato and spices. Add spinach puree and paneer. Simmer for 20 minutes. Add cream. Serve with naan or rice."
+      },
+      {
+        "recipeName": "Chana Masala",
+        "cookingMethod": "Simmering",
+        "ratings": 4.3,
+        "ingredients": "Chickpeas, Onion, Tomato, Garlic, Ginger, Garam Masala, Cumin, Coriander, Turmeric, Chili powder, Salt, Pepper",
+        "recipeInstructions": "Fry onion, garlic, and ginger. Add tomato and spices. Add chickpeas and simmer for 20 minutes. Serve with rice or naan."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chefName": "Jiro Ono",
+    "chefPicture": "https://st2.depositphotos.com/1158045/7470/i/450/depositphotos_74708117-Smiling-chef-in-his-kitchen.jpg",
+    "yearsOfExperience": 18,
+    "numberOfRecipes": 10,
+    "likes": 3500,
+    "chefDescription": "Jiro Ono is a Japanese chef and owner of Sukiyabashi Jiro, a three-Michelin-star sushi restaurant in Tokyo, Japan. He is considered a master of the art of sushi-making and is known for his attention to detail and dedication to his craft.",
+    "cuisineSpecialty": "Japanese",
+    "chefRecipes": [
+      {
+        "recipeName": "Sushi",
+        "cookingMethod": "Raw",
+        "ratings": 4.9,
+        "ingredients": "Sushi rice, Fish, Soy sauce, Wasabi, Pickled ginger",
+        "recipeInstructions": "Prepare sushi rice. Slice the fish into small pieces. Shape the rice into bite-sized pieces. Top with fish. Serve with soy sauce, wasabi, and pickled ginger."
+      },
+      {
+        "recipeName": "Tempura",
+        "cookingMethod": "Frying",
+        "ratings": 4.7,
+        "ingredients": "Shrimp, Flour, Cornstarch, Baking powder, Water, Soy sauce",
+        "recipeInstructions": "Mix flour, cornstarch, baking powder, and water to make a batter. Dip the shrimp in the batter and fry in hot oil until golden brown. Serve with soy sauce."
+      },
+      {
+        "recipeName": "Miso Soup",
+        "cookingMethod": "Boiling",
+        "ratings": 4.3,
+        "ingredients": "Miso paste, Tofu, Wakame seaweed, Green onions, Dashi stock",
+        "recipeInstructions": "Bring dashi stock to a boil. Add miso paste and stir until dissolved. Add cubed tofu, sliced wakame seaweed, and chopped green onions. Simmer for 2-3 minutes."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chefName": "Yotam Ottolenghi",
+    "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 60,
+    "likes": 4000,
+    "chefDescription": "Yotam Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is the owner of several restaurants in London and the author of numerous cookbooks. Ottolenghi is known for his creative and flavorful vegetarian dishes.",
+    "cuisineSpecialty": "Middle Eastern",
+    "chefRecipes": [
+      {
+        "recipeName": "Roasted Eggplant Salad",
+        "cookingMethod": "Roasting",
+        "ratings": 4.7,
+        "ingredients": "Eggplant, Tahini, Yogurt, Garlic, Lemon juice, Olive oil, Cilantro",
+        "recipeInstructions": "Preheat the oven to 425°F. Cut the eggplant into 1-inch cubes. Toss the eggplant with olive oil and roast for 20-25 minutes. Mix the tahini, yogurt, garlic, lemon juice, and salt in a bowl. Serve the eggplant with the tahini-yogurt sauce and cilantro."
+      },
+      {
+        "recipeName": "Falafel",
+        "cookingMethod": "Frying",
+        "ratings": 4.6,
+        "ingredients": "Chickpeas, Onion, Garlic, Parsley, Cilantro, Cumin, Coriander, Baking powder, Flour, Salt, Pepper",
+        "recipeInstructions": "Soak the chickpeas in water overnight. Drain and rinse the chickpeas. Blend the chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, baking powder, flour, salt, and pepper in a food processor until smooth. Form the mixture into small balls. Heat oil in a deep fryer to 375°F. Fry the falafel until golden brown."
+      },
+      {
+        "recipeName": "Hummus",
+        "cookingMethod": "Blending",
+        "ratings": 4.5,
+        "ingredients": "Chickpeas, Tahini, Lemon juice, Garlic, Cumin, Salt, Water, Olive oil, Paprika",
+        "recipeInstructions": "Blend the chickpeas, tahini, lemon juice, garlic, cumin, salt, and water in a food processor until smooth. Serve the hummus with olive oil and paprika on top."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chefName": "Yun Hee Kim",
+    "chefPicture": "https://charactermedia.com/wp-content/uploads/2019/01/Screen-Shot-2014-06-19-at-12.41.59-PM.png",
+    "yearsOfExperience": 12,
+    "numberOfRecipes": 50,
+    "likes": 2500,
+    "chefDescription": "Yun Hee Kim is a Korean chef who specializes in traditional Korean cuisine. She is known for her use of bold flavors and fresh ingredients.",
+    "cuisineSpecialty": "Korean",
+    "chefRecipes": [
+      {
+        "recipeName": "Bibimbap",
+        "cookingMethod": "Grilling, Sautéing",
+        "ratings": 4.7,
+        "ingredients": "Rice, Beef, Spinach, Carrots, Bean sprouts, Soy sauce, Sesame oil, Garlic, Eggs",
+        "recipeInstructions": "Cook rice. Grill beef and sauté spinach, carrots, and bean sprouts. Season with soy sauce, sesame oil, and garlic. Fry eggs. Serve rice topped with beef, vegetables, and eggs."
+      },
+      {
+        "recipeName": "Kimchi Stew",
+        "cookingMethod": "Boiling",
+        "ratings": 4.9,
+        "ingredients": "Kimchi, Pork belly, Tofu, Onion, Garlic, Red pepper flakes, Soy sauce",
+        "recipeInstructions": "Slice pork belly and onion. Cut tofu into cubes. Boil kimchi with pork belly, onion, and garlic. Add red pepper flakes and soy sauce. Simmer for 20 minutes. Add tofu and simmer for another 10 minutes."
+      },
+      {
+        "recipeName": "Japchae",
+        "cookingMethod": "Stir-frying, Boiling",
+        "ratings": 4.8,
+        "ingredients": "Sweet potato noodles, Beef, Spinach, Carrots, Onion, Garlic, Soy sauce, Sesame oil",
+        "recipeInstructions": "Cook sweet potato noodles. Slice beef, spinach, carrots, and onion. Stir-fry beef and vegetables with garlic, soy sauce, and sesame oil. Boil noodles for a few minutes. Add noodles to the stir-fry and mix well."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chefName": "Maggie Beer",
+    "chefPicture": "https://www.escoffier.edu/wp-content/uploads/2016/02/Smiling-female-chef-with-white-hat-and-uniform-in-a-kitchen-e1611773135718.jpg",
+    "yearsOfExperience": 14,
+    "numberOfRecipes": 120,
+    "likes": 7000,
+    "chefDescription": "Maggie Beer is an Australian cook, restaurateur, and food author. She is known for using fresh and seasonal ingredients in her cooking, and for her promotion of local and sustainable agriculture. Beer has published numerous cookbooks, and has appeared on several television cooking shows.",
+    "cuisineSpecialty": "Australian",
+    "chefRecipes": [
+      {
+        "recipeName": "Lamb Roast",
+        "cookingMethod": "Roasting",
+        "ratings": 4.7,
+        "ingredients": "Lamb leg, Garlic, Rosemary, Olive oil, Salt, Pepper",
+        "recipeInstructions": "Preheat the oven to 375°F. Cut slits in the lamb and insert garlic and rosemary. Rub with olive oil, salt, and pepper. Roast the lamb for 1 hour and 30 minutes."
+      },
+      {
+        "recipeName": "Pavlova",
+        "cookingMethod": "Baking",
+        "ratings": 4.9,
+        "ingredients": "Egg whites, Sugar, Cornstarch, Vinegar, Whipped cream, Berries",
+        "recipeInstructions": "Preheat the oven to 250°F. Beat egg whites until stiff peaks form. Gradually add sugar, cornstarch, and vinegar. Shape the mixture into a disc on a baking sheet lined with parchment paper. Bake for 1 hour. Serve with whipped cream and berries."
+      },
+      {
+        "recipeName": "Barbecued Shrimp",
+        "cookingMethod": "Grilling",
+        "ratings": 4.6,
+        "ingredients": "Shrimp, Garlic, Lemon juice, Olive oil, Salt, Pepper",
+        "recipeInstructions": "Preheat the grill to medium-high heat. Mix garlic, lemon juice, olive oil, salt, and pepper in a bowl. Toss the shrimp in the mixture. Grill the shrimp for 2-3 minutes on each side."
+      }
+    ]
+  }
+]
