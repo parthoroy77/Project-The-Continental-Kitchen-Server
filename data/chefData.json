@@ -11,6 +11,7 @@
     "chefRecipes": [
       {
         "recipeName": "Green Salad",
+        "recipeImg": "https://saladswithanastasia.com/wp-content/uploads/2020/10/radish-green-salad-featured1.jpg",
         "cookingMethod": "Mixing",
         "ratings": 4.5,
         "ingredients": "Mixed greens, Olive oil, Vinegar, Salt, Pepper",
@@ -18,6 +19,7 @@
       },
       {
         "recipeName": "Roasted Chicken with Lemon",
+        "recipeImg": "https://www.foodandwine.com/thmb/bpqN1qN41Fe5jSfDGQnjQHQIhEc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/200804-r-herb-roasted-chicken-d02d649f6e60441b8baf0bb5ef28fcdf.jpg",
         "cookingMethod": "Roasting",
         "ratings": 4.8,
         "ingredients": "Whole chicken, Lemon, Thyme, Salt, Pepper",
@@ -25,6 +27,7 @@
       },
       {
         "recipeName": "Pasta with Tomato Sauce",
+        "recipeImg": "https://media.istockphoto.com/id/632439546/photo/pasta-plate.jpg?s=612x612&w=0&k=20&c=zZPaNg_mf7cTVIeJPFVRtsjYClNYkGMcUc5ZBrARwZU=",
         "cookingMethod": "Boiling",
         "ratings": 4.2,
         "ingredients": "Pasta, Tomatoes, Garlic, Onion, Olive oil",
@@ -44,6 +47,7 @@
     "chefRecipes": [
       {
         "recipeName": "Pesto Pasta",
+        "recipeImg": "https://media.istockphoto.com/id/913676302/it/foto/spaghetti-al-pesto.jpg?s=612x612&w=0&k=20&c=q984HywTrHmCjK04NyevGhe4t8DWy6bl_DgQuW3Oq0s=",
         "cookingMethod": "Boiling",
         "ratings": 4.6,
         "ingredients": "Pasta, Fresh basil, Pine nuts, Parmesan cheese, Garlic, Olive oil",
@@ -51,6 +55,7 @@
       },
       {
         "recipeName": "Osso Buco",
+        "recipeImg": "https://media.istockphoto.com/id/1304771356/photo/beef-leg-slice-with-marrow-italian-menu-braised-veal-steak-ossobuco-alla-milanese-with.jpg?s=612x612&w=0&k=20&c=47Jdgd5pFFaTBpWaoGu8pO-tBGqdcH-XAJcGcC_j06E=",
         "cookingMethod": "Braising",
         "ratings": 4.9,
         "ingredients": "Veal shanks, Onion, Carrots, Celery, Tomato paste, White wine, Beef broth, Garlic, Thyme, Bay leaf, Salt, Pepper",
@@ -58,6 +63,7 @@
       },
       {
         "recipeName": "Risotto alla Parmigiana",
+        "recipeImg": "https://media.istockphoto.com/id/637927698/photo/risotto-with-gorgonzola-and-pear.jpg?s=612x612&w=0&k=20&c=ANimgtAtJurDb6LdAfS76K4ss_6eVT3z3Vp1CrAjbBc=",
         "cookingMethod": "Simmering",
         "ratings": 4.7,
         "ingredients": "Arborio rice, Onion, Parmesan cheese, Butter, Olive oil, White wine, Chicken broth, Salt, Pepper",
@@ -77,6 +83,7 @@
     "chefRecipes": [
       {
         "recipeName": "Chinese Chicken Salad",
+        "recipeImg": "https://media.istockphoto.com/id/1423089609/photo/chinese-chicken-salad-with-mandarins-and-veggies.jpg?s=612x612&w=0&k=20&c=-iZiYrfIABSdaYSvZU-Vck1JTU9wl-MouG7jQ0dshVE=",
         "cookingMethod": "None",
         "ratings": 4.4,
         "ingredients": "Chicken breast, Mixed greens, Carrots, Cabbage, Crispy wontons, Almonds, Scallions, Soy sauce, Sesame oil, Rice vinegar, Ginger, Garlic, Sugar, Salt, Pepper",
@@ -84,6 +91,7 @@
       },
       {
         "recipeName": "Spicy Tuna Tartare",
+        "recipeImg": "https://media.istockphoto.com/id/1341652270/photo/fresh-tuna-tartare-with-avocado-arugula-cherry-tomatoes-radishes-chili-peppers-and-lime.jpg?s=612x612&w=0&k=20&c=tweLwvQjm2mTZ_uIvYoEcaRUatiH6e-KaenW_tYZTyc=",
         "cookingMethod": "None",
         "ratings": 4.9,
         "ingredients": "Sushi-grade tuna, Avocado, Soy sauce, Lime juice, Ginger, Garlic, Sriracha, Sesame seeds, Salt, Pepper",
@@ -91,6 +99,7 @@
       },
       {
         "recipeName": "Pizza with Prosciutto and Arugula",
+        "recipeImg": "https://media.istockphoto.com/id/171158253/photo/pizza-with-ham.jpg?s=612x612&w=0&k=20&c=hvIX8Wzt2eoU9AAqDb_tbthsEsjzI_OFytA26pKhgos=",
         "cookingMethod": "Baking",
         "ratings": 4.7,
         "ingredients": "Pizza dough, Tomato sauce, Mozzarella cheese, Prosciutto, Arugula, Olive oil",
@@ -110,6 +119,7 @@
     "chefRecipes": [
       {
         "recipeName": "Chicken Tikka Masala",
+        "recipeImg": "https://media.istockphoto.com/id/1227594550/photo/chicken-curry-creamy-chicken-butter.jpg?s=612x612&w=0&k=20&c=U9SzDx7mjCA5iS1qb8cDUNNkIGD6mJJhwLvEHXL-OlE=",
         "cookingMethod": "Grilling",
         "ratings": 4.7,
         "ingredients": "Chicken, Yogurt, Ginger, Garlic, Garam Masala, Cumin, Coriander, Paprika, Tomato sauce, Cream, Salt, Pepper",
@@ -117,6 +127,7 @@
       },
       {
         "recipeName": "Palak Paneer",
+        "recipeImg": "https://media.istockphoto.com/id/1152493455/photo/indian-vegetarian-dish-palak-paneer.jpg?s=612x612&w=0&k=20&c=mCKLYg3igjK9WYVOk2zEANpwTYeC7TPHXUoC3x6z3wA=",
         "cookingMethod": "Boiling",
         "ratings": 4.5,
         "ingredients": "Spinach, Paneer, Onion, Tomato, Garlic, Ginger, Garam Masala, Cumin, Coriander, Turmeric, Cream, Salt, Pepper",
@@ -125,6 +136,7 @@
       {
         "recipeName": "Chana Masala",
         "cookingMethod": "Simmering",
+        "recipeImg": "https://media.istockphoto.com/id/497509280/photo/spicy-channa-masala-with-chickpeas.jpg?s=612x612&w=0&k=20&c=MuvXy-sG3W8u2bKddMb-tbHfrWJm91JdRpd_UBdnz68=",
         "ratings": 4.3,
         "ingredients": "Chickpeas, Onion, Tomato, Garlic, Ginger, Garam Masala, Cumin, Coriander, Turmeric, Chili powder, Salt, Pepper",
         "recipeInstructions": "Fry onion, garlic, and ginger. Add tomato and spices. Add chickpeas and simmer for 20 minutes. Serve with rice or naan."
@@ -144,6 +156,7 @@
       {
         "recipeName": "Sushi",
         "cookingMethod": "Raw",
+        "recipeImg": "https://media.istockphoto.com/id/533713646/photo/close-up-of-sashimi-sushi-set-with-chopsticks-and-soy.jpg?s=612x612&w=0&k=20&c=29ESG2HI79aNASIHBJJR3EO_Xx2Z8YvNhTn17z3lqPk=",
         "ratings": 4.9,
         "ingredients": "Sushi rice, Fish, Soy sauce, Wasabi, Pickled ginger",
         "recipeInstructions": "Prepare sushi rice. Slice the fish into small pieces. Shape the rice into bite-sized pieces. Top with fish. Serve with soy sauce, wasabi, and pickled ginger."
@@ -151,6 +164,7 @@
       {
         "recipeName": "Tempura",
         "cookingMethod": "Frying",
+        "recipeImg": "https://media.istockphoto.com/id/629614394/photo/delicious-shrimp-in-tempura-with-sweet-and-sour-sauce.jpg?s=612x612&w=0&k=20&c=jaHvQNW5IyF2-imyeQpTDZql2Py_h0kDtDaFYMr3aoQ=",
         "ratings": 4.7,
         "ingredients": "Shrimp, Flour, Cornstarch, Baking powder, Water, Soy sauce",
         "recipeInstructions": "Mix flour, cornstarch, baking powder, and water to make a batter. Dip the shrimp in the batter and fry in hot oil until golden brown. Serve with soy sauce."
@@ -158,6 +172,7 @@
       {
         "recipeName": "Miso Soup",
         "cookingMethod": "Boiling",
+        "recipeImg": "https://media.istockphoto.com/id/650197112/photo/miso-soup.jpg?s=170667a&w=0&k=20&c=1lK6gijnzswlhOBjIyl5NoGI7UGw2PqABaEqQ1m4dis=",
         "ratings": 4.3,
         "ingredients": "Miso paste, Tofu, Wakame seaweed, Green onions, Dashi stock",
         "recipeInstructions": "Bring dashi stock to a boil. Add miso paste and stir until dissolved. Add cubed tofu, sliced wakame seaweed, and chopped green onions. Simmer for 2-3 minutes."
@@ -176,6 +191,7 @@
     "chefRecipes": [
       {
         "recipeName": "Roasted Eggplant Salad",
+        "recipeImg": "https://media.istockphoto.com/id/605766670/photo/traditional-caucasian-saute-from-stewed-eggplants.jpg?s=612x612&w=0&k=20&c=Jpl3pMOnsBOKJwzYah4lt6vYe3_utcX_1PziKXRxElw=",
         "cookingMethod": "Roasting",
         "ratings": 4.7,
         "ingredients": "Eggplant, Tahini, Yogurt, Garlic, Lemon juice, Olive oil, Cilantro",
@@ -184,6 +200,7 @@
       {
         "recipeName": "Falafel",
         "cookingMethod": "Frying",
+        "recipeImg": "https://media.istockphoto.com/id/1139093193/photo/tortilla-wrap-with-falafel-and-fresh-salad-vegan-tacos-vegetarian-healthy-food.jpg?s=612x612&w=0&k=20&c=uUS2GP7JHvTMhqeuZbdfFcaV-zEDe3wEAHeKtZ4vKOw=",
         "ratings": 4.6,
         "ingredients": "Chickpeas, Onion, Garlic, Parsley, Cilantro, Cumin, Coriander, Baking powder, Flour, Salt, Pepper",
         "recipeInstructions": "Soak the chickpeas in water overnight. Drain and rinse the chickpeas. Blend the chickpeas, onion, garlic, parsley, cilantro, cumin, coriander, baking powder, flour, salt, and pepper in a food processor until smooth. Form the mixture into small balls. Heat oil in a deep fryer to 375°F. Fry the falafel until golden brown."
@@ -191,6 +208,7 @@
       {
         "recipeName": "Hummus",
         "cookingMethod": "Blending",
+        "recipeImg": "https://media.istockphoto.com/id/1160233750/photo/vegan-food-plate-with-hummus-ready-to-serve.jpg?s=612x612&w=0&k=20&c=J7qTOVr_y3G_wzMWgrmym0--vKrhPzOZle0mLxczo5Q=",
         "ratings": 4.5,
         "ingredients": "Chickpeas, Tahini, Lemon juice, Garlic, Cumin, Salt, Water, Olive oil, Paprika",
         "recipeInstructions": "Blend the chickpeas, tahini, lemon juice, garlic, cumin, salt, and water in a food processor until smooth. Serve the hummus with olive oil and paprika on top."
@@ -210,6 +228,7 @@
       {
         "recipeName": "Bibimbap",
         "cookingMethod": "Grilling, Sautéing",
+        "recipeImg": "https://media.istockphoto.com/id/1194088849/photo/traditional-korean-dish-bibimbap.jpg?s=612x612&w=0&k=20&c=LC6qM9-QXhLMSoia4VqwD-0m-EZVPctuAu2X-7izbwE=",
         "ratings": 4.7,
         "ingredients": "Rice, Beef, Spinach, Carrots, Bean sprouts, Soy sauce, Sesame oil, Garlic, Eggs",
         "recipeInstructions": "Cook rice. Grill beef and sauté spinach, carrots, and bean sprouts. Season with soy sauce, sesame oil, and garlic. Fry eggs. Serve rice topped with beef, vegetables, and eggs."
@@ -217,6 +236,7 @@
       {
         "recipeName": "Kimchi Stew",
         "cookingMethod": "Boiling",
+        "recipeImg": "https://media.istockphoto.com/id/1440138147/photo/korean-food-kimchi-soup-with-tofu-and-pork.jpg?s=612x612&w=0&k=20&c=XDOe498zf_Oea_DA56DyikNQzZsDYiqycmYF-5Btt1k=",
         "ratings": 4.9,
         "ingredients": "Kimchi, Pork belly, Tofu, Onion, Garlic, Red pepper flakes, Soy sauce",
         "recipeInstructions": "Slice pork belly and onion. Cut tofu into cubes. Boil kimchi with pork belly, onion, and garlic. Add red pepper flakes and soy sauce. Simmer for 20 minutes. Add tofu and simmer for another 10 minutes."
@@ -224,6 +244,7 @@
       {
         "recipeName": "Japchae",
         "cookingMethod": "Stir-frying, Boiling",
+        "recipeImg": "https://media.istockphoto.com/id/1417192118/photo/japchae-korean-traditional-stir-fry-glass-noodles.jpg?s=612x612&w=0&k=20&c=hcDvLc0qvukqTb7Ncv0GNzShzS2_8lxTc4zv3plvP5U=",
         "ratings": 4.8,
         "ingredients": "Sweet potato noodles, Beef, Spinach, Carrots, Onion, Garlic, Soy sauce, Sesame oil",
         "recipeInstructions": "Cook sweet potato noodles. Slice beef, spinach, carrots, and onion. Stir-fry beef and vegetables with garlic, soy sauce, and sesame oil. Boil noodles for a few minutes. Add noodles to the stir-fry and mix well."
@@ -242,6 +263,7 @@
     "chefRecipes": [
       {
         "recipeName": "Lamb Roast",
+        "recipeImg": "https://media.istockphoto.com/id/167311970/photo/braised-lamb-chops.jpg?s=612x612&w=0&k=20&c=nacSAi7eNOuTS1NiJZYETh4W9ZIjQ2ZOb84aRdARbg8=",
         "cookingMethod": "Roasting",
         "ratings": 4.7,
         "ingredients": "Lamb leg, Garlic, Rosemary, Olive oil, Salt, Pepper",
@@ -250,6 +272,7 @@
       {
         "recipeName": "Pavlova",
         "cookingMethod": "Baking",
+        "recipeImg": "https://media.istockphoto.com/id/1158874208/photo/pavlova-meringue-nest-with-berries-and-mint-leaves-isolated-on-white.jpg?s=612x612&w=0&k=20&c=F4IqN9i3NvcLUfzw9-gzKeQyUo3gdkx_D-z-mJbU0DE=",
         "ratings": 4.9,
         "ingredients": "Egg whites, Sugar, Cornstarch, Vinegar, Whipped cream, Berries",
         "recipeInstructions": "Preheat the oven to 250°F. Beat egg whites until stiff peaks form. Gradually add sugar, cornstarch, and vinegar. Shape the mixture into a disc on a baking sheet lined with parchment paper. Bake for 1 hour. Serve with whipped cream and berries."
@@ -257,6 +280,7 @@
       {
         "recipeName": "Barbecued Shrimp",
         "cookingMethod": "Grilling",
+        "recipeImg": "https://media.istockphoto.com/id/1302126017/photo/grilled-spicey-shrimps-with-seasoning.jpg?s=612x612&w=0&k=20&c=ddb_u3G3mAos-daXwi2SGXL1Y8h-q9YTfUfF2PO8D6Q=",
         "ratings": 4.6,
         "ingredients": "Shrimp, Garlic, Lemon juice, Olive oil, Salt, Pepper",
         "recipeInstructions": "Preheat the grill to medium-high heat. Mix garlic, lemon juice, olive oil, salt, and pepper in a bowl. Toss the shrimp in the mixture. Grill the shrimp for 2-3 minutes on each side."
